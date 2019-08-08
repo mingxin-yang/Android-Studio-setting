@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="shape_cicle.xml" type="PLAIN_TEXT" />
+      <mapping pattern="channel" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern="shape_button_blue" type="XML" />
+    </extensionMap>
+  </component>
+</application>

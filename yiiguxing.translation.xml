@@ -1,0 +1,63 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Permissions weren't granted" />
+      <item value="Granted" />
+      <item value="granted" />
+      <item value="denied" />
+      <item value="* This function initializes the Facebook SDK. This function is called automatically on app * start up if the proper entries are listed in the AndroidManifest, such as the facebook * app id. This method can bee called manually if needed. * The behavior of Facebook SDK functions are undetermined if this function is not called. * It should be called as early as possible. * As part of SDK initialization basic auto logging of app events will occur, this can be * controlled via 'com.facebook.sdk.AutoLogAppEventsEnabled' manifest setting * @param applicationContext The application context * @Deprecated {@link #sdkInitialize(Context)} and * {@link AppEventsLogger#activateApp(Application)} are called automatically on application * start. Automatic event logging from 'activateApp' can be controlled via the * 'com.facebook.sdk.AutoLogAppEventsEnabled' manifest setting." />
+      <item value="Return the scrolled left position of this view. This is the left edge of * the displayed part of your view. You do not need to draw any pixels * farther left, since those are outside of the frame of your view on * screen." />
+      <item value="Primary" />
+      <item value="Set a custom maximum value for this axis. If set, this value will not be calculated * automatically depending on" />
+      <item value="You can supply true here to force the drawable to behave * as if it has just become visible, even if it had last * been set visible. Used for example to force animations * to restart." />
+      <item value="visible" />
+      <item value="Set whether this Drawable is visible. This generally does not impact * the Drawable's behavior, but is a hint that can be used by some * Drawables, for example, to decide whether run animations. *" />
+      <item value="rl privilege" />
+      <item value="Asset" />
+      <item value="flag indicating that auto scale max restriction should be used" />
+      <item value="if set to true, the chart will avoid that the first and last label entry * in the chart &quot;clip&quot; off the edge of the chart or the screen *" />
+      <item value="If this is set to true, the y-axis is inverted which means that low values are on top of * the chart, high values * on bottom." />
+      <item value="Deceleration" />
+      <item value="Axis" />
+      <item value="Indices" />
+      <item value="calculates" />
+      <item value="Spot for additional data this Entry represents." />
+      <item value="m Increasing Color" />
+      <item value="Sets custom offsets for the current ViewPort (the offsets on the sides of * the actual chart window). Setting this will prevent the chart from * automatically calculating it's offsets. Use resetViewPortOffsets() to * undo this. ONLY USE THIS WHEN YOU KNOW WHAT YOU ARE DOING, else use * setExtraOffsets(...)." />
+      <item value="set the label value is in the border inside" />
+      <item value="Enables the grid line to be drawn in dashed mode, e.g. like this * &quot;- - - - - -&quot;. THIS ONLY WORKS IF HARDWARE-ACCELERATION IS TURNED OFF. * Keep in mind that hardware acceleration boosts performance." />
+      <item value="Sets the color drawing borders around the bars." />
+      <item value="Renderer" />
+      <item value="ANTI ALIAS FLAG" />
+      <item value="reverse" />
+      <item value="on Single Tap Up" />
+      <item value="on Chart Single Tapped" />
+      <item value="Performs all necessary operations needed for dragging." />
+      <item value="Perform a highlight operation." />
+      <item value="set Hardware Acceleration Enabled" />
+      <item value="Candle" />
+      <item value="Fraction" />
+      <item value="Positive" />
+      <item value="True if this view is currently being controlled by the user or * false it is simply animating back to its original state." />
+      <item value="If the view is swiped, pos will be negative." />
+      <item value="translated" />
+      <item value="a fling gesture" />
+      <item value="Callbacks then a fling gesture is made on the chart." />
+      <item value="Callbacks when the chart is double-tapped." />
+      <item value="Enabled/disable granularity control on axis value intervals. If enabled, the axis * interval is not allowed to go below a certain granularity. Default: false" />
+      <item value="* Set a minimum interval for the axis when zooming in. The axis is not allowed to go below * that limit. This can be used to avoid label duplicating when zooming in." />
+      <item value="避免" />
+      <item value="separately" />
+      <item value="* Sets the size of the area (range on the x-axis) that should be maximum * visible at once (no further zooming out allowed). If this is e.g. set to * 10, no more than a range of 10 on the x-axis can be viewed at once without * scrolling." />
+      <item value="set Value Formatter" />
+      <item value="* sets the number of label entries for the y-axis max = 25, min = 2, default: 6, be aware * that this number is not" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
+        <entry key="ARABIC" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
